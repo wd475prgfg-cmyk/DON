@@ -1,0 +1,21 @@
+# DON 全部分析结果下载
+
+完整结果按内容拆为三个独立 ZIP，每个可单独解压。下载并解压到同一文件夹即可得到本次全部结果，无需拼接文件。
+
+| 下载 | 内容 |
+| --- | --- |
+| [分包1：原始数据与10端元合并表](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part01_data_and_merged.zip) | DON1、DON2、合并表、转化代码、总说明及校验清单 |
+| [分包2：全部分子转化分析](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part02_transformations.zip) | 60个样本的基础转化峰对、逐分子次数、汇总、方法及核对记录 |
+| [分包3：两版RI结果](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part03_RI.zip) | 原版RI及新增N>0、H/C<1.5后的重算网络、RI名单与核对记录 |
+
+## 最新结果
+
+[直接下载最新RI Excel](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_RI_Ngt0_HClt1p5.xlsx) · [查看10端元汇总](latest_RI_endmember_summary.csv)
+
+最新口径：实测m/z 200–900 Da、强度>0、元素组成有效、去除明确标注同位素峰；新增N>0、H/C<1.5后，逐样本重新计算转化网络，RI为转化次数≤1，另保留=0的严格标记。
+
+- 60个样本、10个端元，筛后47,959条逐样本分子峰记录、205,000对候选转化峰对。
+- RI≤1为6,999条逐样本记录，跨样本按分子式去重3,306种。
+- RI=0为3,471条逐样本记录。
+
+解压后优先查看 `RI_N大于0_HC小于1.5` 文件夹；旧版结果保留供比较。所有结果已完成核对。当前尚未筛选端元特异marker。
