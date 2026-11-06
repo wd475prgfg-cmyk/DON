@@ -1,0 +1,7 @@
+{
+  "CSV_independent_source_set_difference": "PASS all 9 sources",
+  "all_726_source_and_Lake_sample_counts": "PASS",
+  "all_726_marker_by_sample_presence": "PASS all 60 samples",
+  "summary_totals": "PASS",
+  "Excel_21_sheets_and_726_main_rows": "PASS"
+}

@@ -1,0 +1,37 @@
+{
+  "sources": [
+    "Algae",
+    "Apatit",
+    "Aquaculture",
+    "Excrement",
+    "Fertilizer",
+    "Plant",
+    "STP",
+    "Sediment",
+    "Soil"
+  ],
+  "receptor": "Lake",
+  "source_sample_count": 50,
+  "receptor_sample_count": 10,
+  "RI_candidate_source_formula_combinations": 4204,
+  "shared_candidates_excluded": 3478,
+  "source_exclusive_RI_markers": 726,
+  "markers_detected_in_Lake": 173,
+  "markers_absent_in_Lake": 553,
+  "strict_RI_eq0_any_markers": 484,
+  "RI_le1_all_source_observations_markers": 672,
+  "detected_in_at_least_2_source_samples_markers": 75,
+  "criteria": [
+    "source RI degree<=1 in at least one observed source peak",
+    "N>0 and H/C<1.5 before network construction",
+    "formula absent from all detected valid peaks in other 8 source types",
+    "Lake excluded from source-exclusivity comparison and used for receptor detection"
+  ],
+  "independent_set_difference_check": "PASS for every source",
+  "limitations": "Candidate markers for the current sampled sources; no fixed prevalence threshold, statistical validation, random forest, XGBoost, SHAP or Bayesian source fractions inferred",
+  "input_sha256": {
+    "分子转化分析/全部样本_分子转化次数.csv": "1d51a231b9cd0418c2d0f2ac4fa02103c3057817dd78735687b3122b86ce8c4f",
+    "RI_N大于0_HC小于1.5/全部筛后分子_RI标记.csv": "915b7a52df6fb51eeb7f71957fd8b22f542e030f5b3e37056853141230c49717",
+    "分子转化分析/样本汇总.csv": "2d1cf9d9031dc720c559d2671e2866593d7085792a6ba6b92e050de59f105c0d"
+  }
+}
