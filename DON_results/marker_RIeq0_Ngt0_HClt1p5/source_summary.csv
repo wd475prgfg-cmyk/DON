@@ -1,0 +1,10 @@
+﻿source,source_total_samples,RI_eq0_candidate_formulas,excluded_shared_with_other_sources,RI_eq0_source_exclusive_markers,markers_detected_in_Lake,all_source_observations_eq0_markers,RI_eq0_in_at_least_2_source_samples_markers,previous_RI_le1_markers,removed_from_previous_markers
+Algae,4,128,117,11,5,11,0,22,11
+Apatit,3,117,102,15,4,15,0,27,12
+Aquaculture,5,297,242,55,17,51,2,83,28
+Excrement,9,361,308,53,9,45,0,75,22
+Fertilizer,4,157,120,37,2,37,0,61,24
+Plant,6,219,177,42,10,42,0,60,18
+STP,4,176,147,29,12,26,0,39,10
+Sediment,10,496,372,124,25,114,6,176,52
+Soil,5,348,230,118,17,100,1,183,65

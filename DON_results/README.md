@@ -8,7 +8,13 @@
 | [分包2：全部分子转化分析](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part02_transformations.zip) | 60个样本的基础转化峰对、逐分子次数、汇总、方法及核对记录 |
 | [分包3：两版RI结果](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part03_RI.zip) | 原版RI及新增N>0、H/C<1.5后的重算网络、RI名单与核对记录 |
 
-## DON 候选 marker（新增）
+## DON 候选 marker（RI＝0，新增）
+
+[下载RI＝0候选marker Excel](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/marker_RIeq0_Ngt0_HClt1p5/DON_RI_eq0_candidate_markers.xlsx) · [完整结果及口径说明](marker_RIeq0_Ngt0_HClt1p5/README.md)
+
+保持N>0、H/C<1.5及9来源排重口径，RI门槛改为0次：484种来源独有候选，101种Lake检出；另列441种全部来源检出记录均为0次的更严格名单。
+
+## DON 候选 marker（RI≤1，对照版）
 
 [下载候选marker Excel](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/marker_Ngt0_HClt1p5/DON_candidate_markers.xlsx) · [完整结果、筛选规则及9来源汇总](marker_Ngt0_HClt1p5/README.md)
 

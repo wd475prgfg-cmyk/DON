@@ -1,0 +1,34 @@
+{
+  "RI_primary_rule": "transformation_count == 0 in at least one detected source peak",
+  "N_HC_filters": "N>0 and H/C<1.5 before constructing the existing per-sample network",
+  "sources": [
+    "Algae",
+    "Apatit",
+    "Aquaculture",
+    "Excrement",
+    "Fertilizer",
+    "Plant",
+    "STP",
+    "Sediment",
+    "Soil"
+  ],
+  "receptor": "Lake",
+  "RI_eq0_peak_observations_all_60_samples": 3471,
+  "RI_eq0_unique_formulas_all_60_samples": 2308,
+  "source_RI_eq0_candidate_combinations": 2299,
+  "source_shared_candidates_excluded": 1815,
+  "source_exclusive_RI_eq0_markers": 484,
+  "markers_detected_in_Lake": 101,
+  "all_source_observations_eq0_markers": 441,
+  "source_RI_eq0_at_least_2_samples_markers": 9,
+  "source_detected_at_least_2_samples_markers": 50,
+  "previous_RI_le1_markers": 726,
+  "removed_from_previous_markers": 242,
+  "checks": "PASS: all 9 independent source set differences; Lake intersections; exact subset of previous strict RI flags; summary counts; N and HC conditions",
+  "input_sha256": {
+    "分子转化分析/全部样本_分子转化次数.csv": "1d51a231b9cd0418c2d0f2ac4fa02103c3057817dd78735687b3122b86ce8c4f",
+    "RI_N大于0_HC小于1.5/全部筛后分子_RI标记.csv": "915b7a52df6fb51eeb7f71957fd8b22f542e030f5b3e37056853141230c49717",
+    "分子转化分析/样本汇总.csv": "2d1cf9d9031dc720c559d2671e2866593d7085792a6ba6b92e050de59f105c0d",
+    "DON_marker_N大于0_HC小于1.5/候选marker_来源独有RI.csv": "2087c9edca9f56220858e3e37b506b01005bafd90bd7f1ba67aa6d74bbc84bf1"
+  }
+}

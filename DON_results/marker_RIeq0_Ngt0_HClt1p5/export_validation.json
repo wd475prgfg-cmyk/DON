@@ -1,0 +1,8 @@
+{
+  "all_3471_RI_eq0_peak_records": "PASS exact input subset",
+  "all_484_source_RI_eq0_evidence_counts": "PASS",
+  "all_484_source_exclusivity_and_Lake_counts": "PASS",
+  "all_484_by_60_sample_presence": "PASS",
+  "summary_counts": "PASS",
+  "Excel_21_sheets": "PASS"
+}
