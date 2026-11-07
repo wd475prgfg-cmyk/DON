@@ -1,0 +1,15 @@
+{
+  "weighted_without_replacement_vs_exact_R_successive_sampling": {
+    "draws": 200000,
+    "max_absolute_frequency_error": 0.0010042857142857353,
+    "status": "PASS"
+  },
+  "RI_le1_primary": "PASS: all 45 saved null distributions, betaNTI, RCBray, process classifications",
+  "RI_le1_sensitivity": "PASS: all 45 saved null distributions, betaNTI, RCBray, process classifications",
+  "RI_le1_Newick_export": "PASS: independently parsed full and pruned trees, 150 pairs each",
+  "RI_eq0_primary": "PASS: all 45 saved null distributions, betaNTI, RCBray, process classifications",
+  "RI_eq0_sensitivity": "PASS: all 45 saved null distributions, betaNTI, RCBray, process classifications",
+  "RI_eq0_Newick_export": "PASS: independently parsed full and pruned trees, 150 pairs each",
+  "Excel_saved_rows": "PASS summary=4 analyses, 45 pairs per marker/pool",
+  "SVG_font_declarations": "Times New Roman and SimSun; text, not embedded fonts"
+}

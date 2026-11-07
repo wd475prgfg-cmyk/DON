@@ -1,0 +1,5 @@
+﻿marker_set,analysis,source_candidate_markers,Lake_detected_markers,null_pool_size,Lake_samples,sample_pairs,valid_pairs,undefined_pairs,randomizations,stochastic_pairs,stochastic_percent_of_valid,deterministic_pairs,deterministic_percent_of_valid,mean_betaNTI,min_betaNTI,max_betaNTI,rounding_sensitive_pairs,dropped_constant_traits
+RI_le1,primary_observed_Lake_pool,726,173,173,10,45,45,0,9999,42,93.33333333333333,3,6.666666666666667,0.3060260665782725,-2.3749721521111073,1.9905816131514373,0,P
+RI_le1,sensitivity_full_source_pool,726,173,726,10,45,45,0,9999,29,64.44444444444444,16,35.55555555555556,-1.8627992253355337,-4.188912246639624,-0.3113347107777518,0,P
+RI_eq0,primary_observed_Lake_pool,484,101,101,10,45,45,0,9999,43,95.55555555555556,2,4.444444444444445,0.25904375450678063,-1.7819138985734608,3.400819608270108,2,P
+RI_eq0,sensitivity_full_source_pool,484,101,484,10,45,45,0,9999,34,75.55555555555556,11,24.444444444444443,-1.3872218089612751,-3.295173198899383,1.390304193757841,2,P

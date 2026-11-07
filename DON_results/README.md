@@ -8,6 +8,12 @@
 | [分包2：全部分子转化分析](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part02_transformations.zip) | 60个样本的基础转化峰对、逐分子次数、汇总、方法及核对记录 |
 | [分包3：两版RI结果](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/DON_results_part03_RI.zip) | 原版RI及新增N>0、H/C<1.5后的重算网络、RI名单与核对记录 |
 
+## 两套 marker 的湖泊保守性验证（新增）
+
+[下载验证Excel](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/marker_lake_conservatism/DON_marker_lake_conservatism.xlsx) · [完整结果、MCD树、9,999次零模型分布、图表及方法](marker_lake_conservatism/README.md)
+
+两套各10个Lake样本、45个样本对。主分析随机过程占比：RI≤1为93.33%，RI=0为95.56%；完整来源库敏感性分析分别64.44%、75.56%。两种分子库设定下均随机过程占多数，为marker库整体相对保守性提供支持，不是逐分子验证通过率。
+
 ## DON 候选 marker（RI＝0，新增）
 
 [下载RI＝0候选marker Excel](https://github.com/wd475prgfg-cmyk/DON/raw/refs/heads/main/DON_results/marker_RIeq0_Ngt0_HClt1p5/DON_RI_eq0_candidate_markers.xlsx) · [完整结果及口径说明](marker_RIeq0_Ngt0_HClt1p5/README.md)
